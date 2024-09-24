@@ -1,0 +1,19 @@
+
+# Ignore Mac system files
+.DS_store
+
+# Ignore R and jupyter 
+.ipynb_checkpoints
+.idea
+.Rhistory
+
+
+# Ignore node_modules folder
+private
+archive
+keys
+team
+keys
+data
+syllabus/~$schedule.xlsx
+
